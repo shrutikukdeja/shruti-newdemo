@@ -1,4 +1,4 @@
 # shruti-newdemo
-author :shruti
+author :shruti(new is shruttt)
 <br>
 new demo file
